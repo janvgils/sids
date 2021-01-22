@@ -20,4 +20,4 @@ Created 15 January 2015
 ### Online sources
 
 Windows based [Software to decode telemetry that is transmitted by satellites](https://www.pe0sat.vgnet.nl/decoding/tlm-decoding-software/dk3wn/) created by DK3WN.\
-Telemetry submission when using [gr-satellites ](https://gr-satellites.readthedocs.io/en/latest/command_line.html?highlight=sids#telemetry-submission)\
+Telemetry submission when using [gr-satellites ](https://gr-satellites.readthedocs.io/en/latest/command_line.html?highlight=sids#telemetry-submission).
