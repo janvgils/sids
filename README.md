@@ -1,5 +1,5 @@
 
-## Simple Downlink Share Convention (SIDS)
+## Simple Downlink Share Convention (SiDS)
 
 ### Some history
 
