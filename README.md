@@ -21,3 +21,12 @@ Created 15 January 2015
 
 Windows based [Software to decode telemetry that is transmitted by satellites](https://www.pe0sat.vgnet.nl/decoding/tlm-decoding-software/dk3wn/) created by DK3WN.\
 Telemetry submission when using [gr-satellites ](https://gr-satellites.readthedocs.io/en/latest/command_line.html?highlight=sids#telemetry-submission).
+
+### Available SIDS enabled servers
+
+The following organisations and universities have SIDS servers available online:
+
+SatNOGS   : https://db.satnogs.org/api/telemetry/
+TU Berlin : http://fachgebiet.rft.tu-berlin.de/ham/telemetry/send
+AMSAT-F   : https://amsat.electrolab.fr/api/V2/SIDS
+
