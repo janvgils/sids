@@ -5,7 +5,7 @@
 
 In the beginning there was:
 
-> Nothing, and somebody needed to bring ideas and people together. Below an image created during one of the brainteam sessions from the ESTCube team.
+> Nothing, and somebody needed to bring ideas and people together. Below an image created during one of the brainteam sessions from the ESTCube team (University of Tartu).
 
 ![In the beginning](images/Brainstorm-session.jpg)
 
