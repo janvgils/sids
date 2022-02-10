@@ -31,3 +31,11 @@ SatNOGS   : https://db.satnogs.org/api/telemetry/
 TU Berlin : http://fachgebiet.rft.tu-berlin.de/ham/telemetry/send
 AMSAT-F   : https://amsat.electrolab.fr/api/V2/SIDS
 ```
+### Frame example send by GetKiss+
+
+Below an example where a GRIZU-263A frame is decoded with the help of an UZ7HO sound-modem.
+The sound-modem application intefaces via a kiss session towards GetKiss+ and forwards the frames to the destination sids server.
+
+```
+noradID=51025&source=[CALL]&timestamp=2022-02-10T10:56:02.800Z&frame=3C594D3256525A160203091A0687080000DC080000C8080000EE0A0000F00A0000E80A0000F10A00008C03ABFD38FFE0FC0000FFFF7DFF000001000000&locator=longLat&longitude=[LONG]&latitude=[LAT]&version=1.3.12
+```
