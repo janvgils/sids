@@ -30,6 +30,7 @@ The following organisations and universities have SIDS servers available online:
 SatNOGS   : https://db.satnogs.org/api/telemetry/
 TU Berlin : http://fachgebiet.rft.tu-berlin.de/ham/telemetry/send
 AMSAT-F   : https://amsat.electrolab.fr/api/V2/SIDS
+PICSAT    : https://https://picsat.obspm.fr/sids/reportframe?
 ```
 ### Frame example send by GetKiss+
 
