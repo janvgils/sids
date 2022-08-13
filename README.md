@@ -43,4 +43,4 @@ noradID=51025&source=[CALL]&timestamp=2022-02-10T10:56:02.800Z&frame=3C594D32565
 
 ### New options.
 
-If you want to [discus](https://github.com/janvgils/sids/issues) current and or new functions, please leaf a comment in the issue section of this repository.
+If you want to [discus](https://github.com/janvgils/sids/issues) current and or new functions, please leave a comment in the issue section of this repository.
