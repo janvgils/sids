@@ -40,3 +40,7 @@ The sound-modem application intefaces via a kiss session towards GetKiss+ and fo
 ```
 noradID=51025&source=[CALL]&timestamp=2022-02-10T10:56:02.800Z&frame=3C594D3256525A160203091A0687080000DC080000C8080000EE0A0000F00A0000E80A0000F10A00008C03ABFD38FFE0FC0000FFFF7DFF000001000000&locator=longLat&longitude=[LONG]&latitude=[LAT]&version=1.3.12
 ```
+
+### New options.
+
+If you want to [discus](https://github.com/janvgils/sids/issues) current and or new functions, please leaf a comment in the issue section of this repository.
